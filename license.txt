@@ -1,3 +1,6 @@
 Edward Yao
 data scientist
 analytics and artificial intelligence
+
+try edit on github
+try dev and pull request
